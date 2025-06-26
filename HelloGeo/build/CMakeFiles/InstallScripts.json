@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/geant4/examples/GeoModelExamples/HelloGeo/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
